@@ -1,10 +1,10 @@
-#图书管理系统—单链表版
+# 图书管理系统—单链表版
 
-## 编译 
-'''c
+## 编译  
+```c
 make
 make clean
-''' 
+```
 ## 测试数据
 
 ### 主程序：LibraryManager.exe 
@@ -26,64 +26,64 @@ make clean
 按以下方式排列： 
 图书数量--图书名称--图书类别--图书id--图书作者
 
-<----------------------------------> 
-5 
-Wuthering Heights 
-noval 
-id00001 
-Emily Bronte 
-<----------------------------------> 
-5 
-The Pigeon Tunnel 
-biography 
-id00002 
-John le Carre 
-<----------------------------------> 
-5 
-Jane Eyre 
-noval 
-id00003 
-Charlotte Bronte 
-<----------------------------------> 
-3 
-Time Travel 
-noval 
-id00004 
-James Gleick 
-<----------------------------------> 
-3 
-To the Lighthouse 
-noval 
-id00005 
-Virginia Woolf 
-<----------------------------------> 
-4 
-The Alps 
-travel notes 
-id00006 
-Stephen O'Shea 
 <---------------------------------->  
-5 
-Surely You're Joking Mr Feynman 
-biography 
-id00007 
-R.P.Feynman 
-<----------------------------------> 
-4 
-Oracle Bones 
-non-fiction 
-id00008 
-Peter Hessler 
-<----------------------------------> 
-2 
-Science Readers 
-science 
-id00009 
-Scholastic 
-<----------------------------------> 
-3 
-Oxford Read and Discover 
-learning 
-id00010 
-Oxford University Press 
-<----------------------------------> 
+5   
+Wuthering Heights   
+noval   
+id00001   
+Emily Bronte  
+<---------------------------------->  
+5  
+The Pigeon Tunnel  
+biography  
+id00002  
+John le Carre  
+<---------------------------------->  
+5   
+Jane Eyre  
+noval  
+id00003  
+Charlotte Bronte   
+<---------------------------------->  
+3  
+Time Travel  
+noval  
+id00004   
+James Gleick  
+<---------------------------------->  
+3  
+To the Lighthouse  
+noval   
+id00005  
+Virginia Woolf  
+<---------------------------------->  
+4  
+The Alps  
+travel notes  
+id00006  
+Stephen O'Shea  
+<---------------------------------->   
+5  
+Surely You're Joking Mr Feynman  
+biography  
+id00007  
+R.P.Feynman  
+<---------------------------------->  
+4  
+Oracle Bones  
+non-fiction  
+id00008  
+Peter Hessler  
+<---------------------------------->  
+2  
+Science Readers  
+science  
+id00009  
+Scholastic  
+<---------------------------------->  
+3  
+Oxford Read and Discover  
+learning  
+id00010  
+Oxford University Press  
+<---------------------------------->  
