@@ -10,8 +10,9 @@ p.s. 在Windows 10下使用：
 ```
 gcc version 10.1.0 (Rev2, Built by MSYS2 project)
 GNU Make 4.3 (Built for x86_64-pc-msys)
+powershell
 ```
-编译/测试通过  
+编译/测试运行通过  
 ## 测试数据
 
 ### 主程序：LibraryManager.exe 
