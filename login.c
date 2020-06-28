@@ -77,7 +77,7 @@ int login(Users *cur_user) {
             printf("请输入新用户的姓名：");
             str_get(users_temp.usr_names, USR_NAMES_LENGTH);
             printf("请输入新用户的密码：");
-            str_get(users_temp.usr_passwd, USR_PASSWD_LENGTH);
+            passwd_get(users_temp.usr_passwd);
 
             //当用户数据库没有信息时，首先分配管理员
             if (users_plist == NULL)
